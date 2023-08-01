@@ -32,6 +32,9 @@ Para utilizar esta Base de Datos en un entorno local, sigue los siguientes pasos
 
 3. Una vez importada, podrás comenzar a ejecutar consultas y realizar operaciones sobre la Base de Datos para acceder a la información almacenada.
 
+## Diagrama de base de datos
+
+
 ## Contribuciones
 
 Este proyecto ha sido creado como parte de un curso académico, por lo que actualmente no se aceptan contribuciones externas. Sin embargo, si deseas utilizar esta Base de Datos como base para un proyecto personal o académico, te animamos a que lo hagas y aportes mejoras a tu propia implementación.
