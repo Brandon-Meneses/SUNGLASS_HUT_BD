@@ -33,6 +33,7 @@ Para utilizar esta Base de Datos en un entorno local, sigue los siguientes pasos
 3. Una vez importada, podrás comenzar a ejecutar consultas y realizar operaciones sobre la Base de Datos para acceder a la información almacenada.
 
 ## Diagrama de base de datos
+![Diagrama Base de datos](images/ejemplo.png)
 
 
 ## Contribuciones
